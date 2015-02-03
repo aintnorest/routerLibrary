@@ -1,0 +1,30 @@
+{
+  "name": "routerLibrary",
+  "version": "0.0.1",
+  "description": "A small router",
+  "main": "Router.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aintnorest/routerLibrary.git"
+  },
+  "keywords": [
+    "Router"
+  ],
+  "author": "Chris Alatorre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aintnorest/routerLibrary/issues"
+  },
+  "homepage": "https://github.com/aintnorest/routerLibrary",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jasmine": "^2.0.0",
+    "gulp-mocha": "^2.0.0",
+    "jasmine-reporters": "^1.0.1",
+    "lodash": "^3.0.1",
+    "postal": "^0.12.4"
+  }
+}
